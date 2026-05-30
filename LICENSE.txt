@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-3dmark, 3dmark-pro, 3dmark-2026, ul-3dmark, gpu-benchmark, gaming-benchmark, directx12-test, pro-software-2026, trial-software, windows-software-2026                                   
+3dmark, 3dmark-pro, 3dmark-2026, ul-3dmark, gpu-benchmark, gaming-benchmark, directx12-test, pro-software-2026, trial-software, windows-software-2026                                    
